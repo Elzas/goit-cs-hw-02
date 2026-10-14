@@ -1,0 +1,6 @@
+https://google.com is UP
+https://facebook.com is UP
+https://twitter.com is UP
+https://example.invalid is DOWN
+https://httpbin.org/status/404 is DOWN
+https://httpbin.org/status/500 is DOWN
